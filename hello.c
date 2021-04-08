@@ -1,8 +1,7 @@
-#include<stdio.h>
-int main
+int main()
 {
-	printf("123456789\n");
-	printf("xiugai\n");
-	printf("xiugai 2\n");
+	int a=0;
+	int b=0;
+	int c=a+b;
 	return 0;
 }
