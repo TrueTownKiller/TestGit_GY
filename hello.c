@@ -9,7 +9,7 @@
 #include <iterator>
 #include <fstream>
 
-#define CELLCNT 20
+#define CELLCNT 8
 using namespace std;
 
 
